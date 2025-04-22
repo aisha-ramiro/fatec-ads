@@ -3,7 +3,7 @@
 # 9. F-Strings
 
 aluno = input('Digite o nome do aluno: ')
-nota = float(input('Digite o valor da nota: '))
+nota = float(input('Digite o valor da nota do aluno: '))
 
 print(f'A nota do(a) aluno(a) {aluno} é: {nota:.1f}') 
 # o f-strings é uma forma mais simples de formatar e concatenar as strings. 
